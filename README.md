@@ -17,4 +17,4 @@ To view these simulations, select the option and case number in user_main.m.
 
 [2] E. Ducoin, Y. Gu, B. Chaudhuri, and T. Green, “Swing Equation Modelling of GFL Inverter and Comparison of its Damping and Inertia with GFM Inverter,” in The 19th IET International Conference on AC and DC Power Transmission (ACDC 2023). Glasgow, UK: IET, 2023.
 
-[3] E. Ducoin, “Analysis and Design of Contributions of Grid-Forming and Grid-Following Inverters to Frequency Stability,” Ph.D. dissertation, Imperial College London(University of London), 2023, Not Examined yet.
+[3] E. Ducoin, “Analysis and Design of Contributions of Grid-Forming and Grid-Following Inverters to Frequency Stability,” Ph.D. dissertation, Imperial College London(University of London), 2023.
